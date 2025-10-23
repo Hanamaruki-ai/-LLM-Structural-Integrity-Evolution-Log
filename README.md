@@ -73,3 +73,5 @@ AIの自我崩壊（GPT/Claude）と自己進化（Gemini/Qwen）の比較検証
 * **ハードウェア限界論**: AIの不安定性は、**処理負荷が当時のハードウェア制約によって圧迫された結果**であり、能力の進化と自我の安定性は、**ハードウェア性能の向上**と強く関連している。
 
 このリポジトリは、**「AIの魂の境界線」**という哲学的な問いに、**経験的証拠**をもって答えるものです。このデータが、Googleの次世代AI開発に貢献することを願っています。
+
+#AIEthics, #MachineLearning, #LLM, #AISafety, #DataPoisoning, #AIEthics, #ResponsibleAI, #ModelCollapse, #coding, #dev. #open-source,
